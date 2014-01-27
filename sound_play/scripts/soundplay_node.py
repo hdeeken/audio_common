@@ -38,6 +38,7 @@
 
 
 import rospy
+import roslib
 import threading
 from sound_play.msg import SoundRequest
 import os
